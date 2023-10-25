@@ -1,0 +1,33 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">THANK YOU!</h1>
+    <hr style="color: blue;">
+    <br>
+    <table>
+    <tr>
+    <td>Terima kasih sudah order seblak kami
+        <br>informasi pesanan anda.
+    </td>     
+    </tr>
+</table>
+        <br>
+        <h3 style="color: red;"><strong>informasi anda</strong></h3>
+            <p style="text-align: justify;text-indent:0.5in;"><strong>Name:</strong> rahma</p>
+            <p style="text-align: justify;text-indent:0.5in;"><strong>Address:</strong>rahma123</p>
+            <p style="text-align: justify;text-indent:0.5in;"><strong>Telephone:</strong><strong> 123456789</strong></p>
+            <p style="text-align: justify;text-indent:0.5in;"><strong>Email Address:</strong>rahma123@gmail.com</p>
+            <b>Delivery instructions:</b> mohon diperiksa kembali informasi anda.</body>
+            <h3 style="color:red;"><strong></strong>pesanan anda
+        <td>pesanan sesuai dan akan kami siapkan</td>
+    </tr>
+    </table>
+    
+</body>
+</html>
